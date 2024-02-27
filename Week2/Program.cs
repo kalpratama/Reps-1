@@ -1,2 +1,4 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿Console.WriteLine("Selamat Datang, Nama Kamu Siapa?");
+Console.Write("Namaku ");
+String namaMahasiswa = Console.ReadLine();
+Console.WriteLine("Hello, " + namaMahasiswa + "!");
